@@ -1,0 +1,42 @@
+﻿
+@model BetSystem.Web.Models.EventsViewModel
+@{
+    ViewBag.Title = "Preview";
+}
+
+<div class="container">
+    @{
+        foreach (var betEvent in Model.Events)
+        {
+            <div class="row">
+                <div class="col-xs-1 id">
+                    @betEvent.Id
+                    
+                </div>
+                <div class="col-xs-2 eventName">
+                    @Html.TextBox("EventName",betEvent.EventName)
+                </div>
+                <div class="col-xs-1 oddsForFirstTeam">
+                    @Html.TextBox("OddsForFirstTeam", betEvent.OddsForFirstTeam.ToString())
+                </div>
+                <div class="col-xs-1 oddsForDraw">
+                    @Html.TextBox("OddsForDraw", betEvent.OddsForDraw.ToString())
+                </div>
+                <div class="col-xs-1 oddsForSecondTeam">
+                    @Html.TextBox("OddsForSecondTeam", betEvent.OddsForSecondTeam.ToString())
+                </div>
+                <div class="col-xs-2 eventStartDate">
+                    @Html.TextBox("EventStartDate", betEvent.EventStartDate.ToString())
+                </div>
+                <div class="col-xs-1 deleteBtn">
+                    Delete
+                </div>
+                <div class="col-xs-1 editBtn">
+                    Update
+                </div>
+            </div>
+        }
+    }
+    @Html.ActionLink("Add Event", "AddEvent", "Home")
+</div>
+<script src="~/Scripts/Event/edit-event.js"></script>

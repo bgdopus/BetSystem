@@ -1,0 +1,163 @@
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\ApplicationInsights.config
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\csc.exe
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\csc.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\csc.rsp
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\csi.exe
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\csi.rsp
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\System.AppContext.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\System.IO.FileSystem.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\vbc.exe
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\vbc.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\vbc.rsp
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\VBCSCompiler.exe
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\BetSystem.Web.dll.config
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\BetSystem.Web.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\BetSystem.Web.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Antlr3.Runtime.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.Web.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Newtonsoft.Json.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.Helpers.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.Mvc.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.Optimization.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.Razor.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.WebPages.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\WebGrease.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.Helpers.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.Mvc.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.Optimization.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.Razor.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.WebPages.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Antlr3.Runtime.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Newtonsoft.Json.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\Microsoft.AI.Web.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\obj\Debug\BetSystem.Web.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\obj\Debug\BetSystem.Web.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\obj\Debug\BetSystem.Web.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\EntityFramework.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\EntityFramework.SqlServer.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\EntityFramework.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\ApplicationInsights.config
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\csc.exe
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\csc.exe.config
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\csc.rsp
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\csi.exe
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\csi.rsp
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\vbc.exe
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\vbc.exe.config
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\vbc.rsp
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Web.dll.config
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Web.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Web.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Antlr3.Runtime.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\EntityFramework.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.Helpers.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.Mvc.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.Optimization.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.Razor.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.WebPages.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\WebGrease.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\EntityFramework.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.Helpers.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.Mvc.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.Optimization.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.Razor.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.WebPages.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\obj\Debug\BetSystem.Web.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\obj\Debug\BetSystem.Web.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Services.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Data.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Data.Models.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Bytes2you.Validation.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Services.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Data.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Data.dll.config
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Data.Models.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\WebActivatorEx.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\AutoMapper.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\AutoMapper.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Common.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\BetSystem.Common.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Ninject.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Ninject.Web.Common.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Ninject.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Ninject.Web.Common.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Web\obj\Debug\BetSystem.Web.csprojResolveAssemblyReference.cache

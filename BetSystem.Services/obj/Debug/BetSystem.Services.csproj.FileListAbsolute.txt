@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\BetSystem.Services.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\BetSystem.Services.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\BetSystem.Data.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\BetSystem.Data.Models.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\Bytes2you.Validation.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\BetSystem.Data.Models.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\BetSystem.Data.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\BetSystem.Data.dll.config
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\obj\Debug\BetSystem.Services.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\obj\Debug\BetSystem.Services.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Services\obj\Debug\BetSystem.Services.csprojResolveAssemblyReference.cache

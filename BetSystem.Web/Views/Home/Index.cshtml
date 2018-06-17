@@ -1,0 +1,30 @@
+﻿@model BetSystem.Web.Models.EventsViewModel
+@{
+    ViewBag.Title = "Preview";
+}
+
+<div class="container">
+        @{
+            foreach (var betEvent in Model.Events)
+            {
+            <div class="row event-container">
+                <div class="col-xs-4 event-name">
+                    @betEvent.EventName
+                </div>
+                <div class="col-xs-2 odds-first-team">
+                    @betEvent.OddsForFirstTeam
+                </div>
+                <div class="col-xs-2 odds-draw">
+                    @betEvent.OddsForDraw
+                </div>
+                <div class="col-xs-2 odds-second-team">
+                    @betEvent.OddsForSecondTeam
+                </div>
+                <div class="col-xs-2 event-start-time">
+                    @betEvent.EventStartDate
+                </div>
+            </div>
+            }
+        }
+</div>
+<script src="~/Scripts/Event/preview-event.js"></script>

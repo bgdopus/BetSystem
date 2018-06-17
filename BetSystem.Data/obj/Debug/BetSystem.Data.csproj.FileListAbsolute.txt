@@ -1,0 +1,47 @@
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.dll.config
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\AutoMapper.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Common.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.JsonModels.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.Models.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\Bytes2you.Validation.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Common.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.JsonModels.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.Models.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\AutoMapper.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\bin\Debug\Newtonsoft.Json.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.Migrations.Initial.resources
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.Migrations.ColumnTypeUpdate.resources
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.dll.config
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\AutoMapper.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Common.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.JsonModels.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.Models.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\Bytes2you.Validation.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Common.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.JsonModels.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\BetSystem.Data.Models.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\AutoMapper.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.Migrations.init.resources
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data\obj\Debug\BetSystem.Data.csprojResolveAssemblyReference.cache

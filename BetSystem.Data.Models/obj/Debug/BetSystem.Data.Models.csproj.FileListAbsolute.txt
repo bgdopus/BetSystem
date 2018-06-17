@@ -1,0 +1,10 @@
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.Models\bin\Debug\BetSystem.Data.Models.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.Models\bin\Debug\BetSystem.Data.Models.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.Models\obj\Debug\BetSystem.Data.Models.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.Models\obj\Debug\BetSystem.Data.Models.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.Models\obj\Debug\BetSystem.Data.Models.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.Models\bin\Debug\BetSystem.Data.Models.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.Models\bin\Debug\BetSystem.Data.Models.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.Models\obj\Debug\BetSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.Models\obj\Debug\BetSystem.Data.Models.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.Models\obj\Debug\BetSystem.Data.Models.pdb

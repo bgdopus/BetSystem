@@ -1,0 +1,15 @@
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Common\bin\Debug\BetSystem.Common.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Common\bin\Debug\BetSystem.Common.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Common\bin\Debug\AutoMapper.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Common\bin\Debug\AutoMapper.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Common\obj\Debug\BetSystem.Common.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Common\obj\Debug\BetSystem.Common.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Common\obj\Debug\BetSystem.Common.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Common\bin\Debug\BetSystem.Common.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Common\bin\Debug\BetSystem.Common.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Common\bin\Debug\AutoMapper.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Common\bin\Debug\AutoMapper.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Common\obj\Debug\BetSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Common\obj\Debug\BetSystem.Common.csproj.CopyComplete
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Common\obj\Debug\BetSystem.Common.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Common\obj\Debug\BetSystem.Common.pdb

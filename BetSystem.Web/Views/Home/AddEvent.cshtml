@@ -1,0 +1,43 @@
+﻿@model BetSystem.Web.Models.EventInputModel
+
+@{
+    ViewBag.Title = "AddEvent";
+}
+
+<h3>Add event</h3>
+@using (Ajax.BeginForm("AddEvent", "Home", new AjaxOptions()
+{
+    HttpMethod = "POST",
+    UpdateTargetId = "complete-account",
+    InsertionMode = InsertionMode.ReplaceWith,
+    OnSuccess = "completeAccountModule.checkResultValidation"
+},
+    new { id = "completeAccount" }
+
+            ))
+{
+    <div>
+        Event Name
+    </div>
+    @Html.TextBoxFor(x => x.EventName)
+    <div>
+        OddsForFirstTeam
+    </div>
+    @Html.TextBoxFor(x => x.OddsForFirstTeam)
+    <div>
+        OddsForDraw
+    </div>
+    @Html.TextBoxFor(x => x.OddsForDraw)
+    <div>
+        OddsForSecondTeam
+    </div>
+    @Html.TextBoxFor(x => x.OddsForSecondTeam)
+    <div>
+        Start Date
+    </div>
+    @Html.TextBoxFor(x => x.EventStartDate)
+    
+    <br/>
+    <button type="submit">Add Event</button>
+}
+          

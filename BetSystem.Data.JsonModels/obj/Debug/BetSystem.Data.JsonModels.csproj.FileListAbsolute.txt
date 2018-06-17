@@ -1,0 +1,28 @@
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Data.JsonModels.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Data.JsonModels.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Common.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Data.Models.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\AutoMapper.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Common.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Data.Models.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\Newtonsoft.Json.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\bin\Debug\AutoMapper.xml
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\obj\Debug\BetSystem.Data.JsonModels.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\obj\Debug\BetSystem.Data.JsonModels.dll
+c:\users\daniel\documents\visual studio 2017\Projects\BetSystem\BetSystem.Data.JsonModels\obj\Debug\BetSystem.Data.JsonModels.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Data.JsonModels.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Data.JsonModels.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Common.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Data.Models.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\AutoMapper.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Common.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\BetSystem.Data.Models.pdb
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\bin\Debug\AutoMapper.xml
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\obj\Debug\BetSystem.Data.JsonModels.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\obj\Debug\BetSystem.Data.JsonModels.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\obj\Debug\BetSystem.Data.JsonModels.csproj.CopyComplete
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\obj\Debug\BetSystem.Data.JsonModels.dll
+C:\Users\Daniel\Documents\BetSystem\BetSystem\BetSystem.Data.JsonModels\obj\Debug\BetSystem.Data.JsonModels.pdb
