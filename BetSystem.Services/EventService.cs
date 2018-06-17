@@ -3,6 +3,7 @@ using BetSystem.Data.Models;
 using BetSystem.Services.Abstract;
 using BetSystem.Services.Contracts;
 using BetSystem.Services.DTO;
+using Bytes2you.Validation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,11 +18,20 @@ namespace BetSystem.Services
 
         public EventService(IGenericRepository<Event> eventRepository)
         {
+            Guard.WhenArgument(eventRepository, "EventRepository").IsNull().Throw();
+
             this.eventRepository = eventRepository;
         }
 
         public void AddEvent(EventDTO betEventDTO)
         {
+            Guard.WhenArgument(betEventDTO, "betEventDTO").IsNull().Throw();
+            Guard.WhenArgument(betEventDTO.EventName, "EventName").IsNull().Throw();
+            Guard.WhenArgument(betEventDTO.OddsForFirstTeam, "OddsForFirstTeam").IsLessThan(1).Throw();
+            Guard.WhenArgument(betEventDTO.OddsForDraw, "OddsForDraw").IsLessThan(1).Throw();
+            Guard.WhenArgument(betEventDTO.OddsForSecondTeam, "OddsForSecondTeam").IsLessThan(1).Throw();
+            Guard.WhenArgument(betEventDTO.EventStartDate, "EventStartDate").IsGreaterThan(DateTime.UtcNow);
+
             var betEvent = new Event
             {
                 EventName = betEventDTO.EventName,
