@@ -39,3 +39,7 @@ textarea {
 .event-container:nth-child(even) {
     background-color: AliceBlue;
 }
+
+#event-id{
+    display: none;
+}

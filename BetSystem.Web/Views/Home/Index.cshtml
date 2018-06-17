@@ -8,16 +8,19 @@
             foreach (var betEvent in Model.Events)
             {
             <div class="row event-container">
-                <div class="col-xs-4 event-name">
+                <div class="col-xs-4 event-id" id="event-id">
+                    @betEvent.Id
+                </div>
+                <div class="col-xs-4 event-name" id="event-name">
                     @betEvent.EventName
                 </div>
-                <div class="col-xs-2 odds-first-team">
+                <div class="col-xs-2 odds-first-team odd" id="odds-first-team">
                     @betEvent.OddsForFirstTeam
                 </div>
-                <div class="col-xs-2 odds-draw">
+                <div class="col-xs-2 odds-draw odd" id="odds-draw">
                     @betEvent.OddsForDraw
                 </div>
-                <div class="col-xs-2 odds-second-team">
+                <div class="col-xs-2 odds-second-team odd" id="odds-second-team">
                     @betEvent.OddsForSecondTeam
                 </div>
                 <div class="col-xs-2 event-start-time">

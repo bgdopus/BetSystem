@@ -10,7 +10,6 @@
     }
 
     function loadEvents() {
-        debugger;
         $editBtn.on('click', updateEvent);
         $deleteBtn.on('click', updateEvent);
     }
@@ -21,7 +20,6 @@
     }
 
     function updateEvent() {
-        debugger;
         var target = $(this).html().trim();
         var $eventContainer = $(this).parent();
         var id = parseInt($eventContainer.find('.id').text().trim());
@@ -32,10 +30,15 @@
         var eventStartDate = new Date(Date.parse($eventContainer.find('#EventStartDate').val()));
         var isDeleted = false;
 
+        if (oddsForFirstTeam < 1 || oddsForDraw < 1 || oddsForSecondTeam < 1) {
+            alert('Odd must be greater or equal to 1!');
+            return;
+        }
+
         if (target == 'Delete') {
             isDeleted = true;
         }
-
+        
         var data = {
             Id : id,
             EventName : eventName,
@@ -57,39 +60,9 @@
                 alert(result.message);
             }
         });
-
-
+        
     }
-
-    function deleteEvent() {
-        var $eventContainer = $(this).parent();
-        var id = parseInt($eventContainer.find('.id').text().trim());
-        var eventName = $eventContainer.find('#EventName').val();
-        var oddsForFirstTeam = parseFloat($eventContainer.find('#OddsForFirstTeam').val());
-        var oddsForDraw = parseFloat($eventContainer.find('#OddsForDraw').val());
-        var oddsForSecondTeam = parseFloat($eventContainer.find('#OddsForSecondTeam').val());
-        var eventStartDate = new Date(Date.parse($eventContainer.find('#EventStartDate').val()));
-
-        var data = {
-            Id: id,
-            EventName: eventName,
-            OddsForFirstTeam: oddsForFirstTeam,
-            OddsForDraw: oddsForDraw,
-            OddsForSecondTeam: oddsForSecondTeam,
-            EventStartDate: eventStartDate
-        }
-        debugger;
-        $.ajax({
-            url: '/Home/DeleteEvent',
-            type: 'POST',
-            data: data,
-            processData: true,
-            contentType: false,
-            success: function (data) {
-                alert(result.message);
-            }
-        });
-    }
+    
 
     function onSuccess(message) {
         if (Array.isArray(message)) {

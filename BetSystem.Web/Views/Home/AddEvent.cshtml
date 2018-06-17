@@ -34,9 +34,10 @@
     @Html.TextBoxFor(x => x.OddsForSecondTeam)
     <div>
         Start Date
-    </div>
-    @Html.TextBoxFor(x => x.EventStartDate)
+    </div> 
     
+        @Html.TextBoxFor(x => x.EventStartDate, new { @Value = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 23, 59, 0)})
+
     <br/>
     <button type="submit">Add Event</button>
 }
